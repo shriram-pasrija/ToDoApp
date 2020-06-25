@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="delete">delete</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_description">Enter Description</string>
+    <string name="error_empty_title">Please enter title</string>
+    <string name="error_empty_description">Please enter description</string>
+    <string name="view_edit_task">View/Edit Task</string>
+    <string name="create_task">Create Task</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="search">Search</string>
+    <string name="search_here">Search here</string>
+    <string name="add_task">Add Task</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
